@@ -1,0 +1,7 @@
+.body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    font-family: 'Didot', 'Franklin Gothic Medium','Arial Narrow;'
+}
